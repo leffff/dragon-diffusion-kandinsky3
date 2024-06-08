@@ -3,7 +3,7 @@
 ## DDIM Inversion example
 
 
-Input Image                                                                    |  DDIM Inversedd
+Input Image                                                                    |  DDIM Inversed
 :-----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:
 <img src="images/dog.jpg" alt="drawing" width="300"/>   |  <img src="images/cat.png" alt="drawing" width="350"/>
 
